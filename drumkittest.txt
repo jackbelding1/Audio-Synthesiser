@@ -1,0 +1,90 @@
+<score bpm="124" beatspermeasure="4">
+<instrument instrument="Wave" name="clap1">
+<note measure="1" beat="1" duration="0.25" s0="1.0" s1="0.0" s2="0.0" 
+ atk="0.1" rls="0.1" sus="0.8" decay="0.05"/>
+</instrument>
+<instrument instrument="Wave" name="clap2">
+<note measure="1" beat="2" duration="0.25" s0="1.0" s1="0.0" s2="0.0" 
+ atk="0.1" rls="0.1" sus="0.8" decay="0.05"/>
+</instrument>
+<instrument instrument="Wave" name="clap3">
+<note measure="1" beat="3" duration="0.25" s0="1.0" s1="0.0" s2="0.0" 
+ atk="0.1" rls="0.1" sus="0.8" decay="0.05"/>
+</instrument>
+<instrument instrument="Wave" name="crash">
+<note measure="1" beat="4" duration="0.25" s0="1.0" s1="0.0" s2="0.0" 
+ atk="0.1" rls="0.1" sus="0.8" decay="0.05"/>
+</instrument>
+<instrument instrument="Wave" name="crash2">
+<note measure="2" beat="1" duration="0.25" s0="1.0" s1="0.0" s2="0.0" 
+ atk="0.1" rls="0.1" sus="0.8" decay="0.05"/>
+</instrument>
+<instrument instrument="Wave" name="main open hat">
+<note measure="2" beat="2" duration="0.25" s0="1.0" s1="0.0" s2="0.0" 
+ atk="0.1" rls="0.1" sus="0.8" decay="0.05"/>
+</instrument>
+<instrument instrument="Wave" name="hat2">
+<note measure="2" beat="3" duration="0.25" s0="1.0" s1="0.0" s2="0.0" 
+ atk="0.1" rls="0.1" sus="0.8" decay="0.05"/>
+</instrument>
+<instrument instrument="Wave" name="hat3">
+<note measure="2" beat="4" duration="0.25" s0="1.0" s1="0.0" s2="0.0" 
+ atk="0.1" rls="0.1" sus="0.8" decay="0.05"/>
+</instrument>
+<instrument instrument="Wave" name="hat4">
+<note measure="3" beat="1" duration="0.25" s0="1.0" s1="0.0" s2="0.0" 
+ atk="0.1" rls="0.1" sus="0.8" decay="0.05"/>
+</instrument>
+<instrument instrument="Wave" name="hat5">
+<note measure="3" beat="2" duration="0.25" s0="1.0" s1="0.0" s2="0.0" 
+ atk="0.1" rls="0.1" sus="0.8" decay="0.05"/>
+</instrument>
+<instrument instrument="Wave" name="hat6">
+<note measure="3" beat="3" duration="0.25" s0="1.0" s1="0.0" s2="0.0" 
+ atk="0.1" rls="0.1" sus="0.8" decay="0.05"/>
+</instrument>
+<instrument instrument="Wave" name="hat8">
+<note measure="3" beat="4" duration="0.25" s0="1.0" s1="0.0" s2="0.0" 
+ atk="0.1" rls="0.1" sus="0.8" decay="0.05"/>
+</instrument>
+<instrument instrument="Wave" name="kick top">
+<note measure="4" beat="1" duration="0.25" s0="1.0" s1="0.0" s2="0.0" 
+ atk="0.1" rls="0.1" sus="0.8" decay="0.05"/>
+</instrument>
+<instrument instrument="Wave" name="kick1">
+<note measure="4" beat="2" duration="0.25" s0="1.0" s1="0.0" s2="0.0" 
+ atk="0.1" rls="0.1" sus="0.8" decay="0.05"/>
+</instrument>
+<instrument instrument="Wave" name="kick2">
+<note measure="4" beat="3" duration="0.25" s0="1.0" s1="0.0" s2="0.0" 
+ atk="0.1" rls="0.1" sus="0.8" decay="0.05"/>
+</instrument>
+<instrument instrument="Wave" name="kick3">
+<note measure="4" beat="4" duration="0.25" s0="1.0" s1="0.0" s2="0.0" 
+ atk="0.1" rls="0.1" sus="0.8" decay="0.05"/>
+</instrument>
+<instrument instrument="Wave" name="main snare">
+<note measure="5" beat="1" duration="0.25" s0="1.0" s1="0.0" s2="0.0" 
+ atk="0.1" rls="0.1" sus="0.8" decay="0.05"/>
+</instrument>
+<instrument instrument="Wave" name="perc">
+<note measure="5" beat="2" duration="0.25" s0="1.0" s1="0.0" s2="0.0" 
+ atk="0.1" rls="0.1" sus="0.8" decay="0.05"/>
+</instrument>
+<instrument instrument="Wave" name="snare roll">
+<note measure="5" beat="3" duration="0.25" s0="1.0" s1="0.0" s2="0.0" 
+ atk="0.1" rls="0.1" sus="0.8" decay="0.05"/>
+</instrument>
+<instrument instrument="Wave" name="rider1">
+<note measure="5" beat="4" duration="0.25" s0="1.0" s1="0.0" s2="0.0" 
+ atk="0.1" rls="0.1" sus="0.8" decay="0.05"/>
+</instrument>
+	<instrument instrument="Drum" >
+		<note measure="6" beat="1" duration="0.25" note="F3" s0="1.0" s1="0.0" s2="0.0" 
+		atk="0.40" rls="2.00" sus="0.8" decay="0.1"/>
+		<note measure="6" beat="2" duration="0.25" s0="1.0" s1="0.0" s2="0.0" />
+		<note measure="6" beat="3" duration="0.25" s0="1.0" s1="0.0" s2="0.0" />
+		<note measure="6" beat="4" duration="0.25" s0="1.0" s1="0.0" s2="0.0" />
+	</instrument>
+
+</score>

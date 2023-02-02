@@ -1,0 +1,48 @@
+﻿cl : command line  warning D9035: option 'Gm' has been deprecated and will be removed in a future release
+  stdafx.cpp
+cl : command line  warning D9035: option 'Gm' has been deprecated and will be removed in a future release
+  WavePlayer.cpp
+  WaveInstrumentFactory.cpp
+C:\Users\jack_\source\repos\cse471\proj_3\Synthie\WaveInstrumentFactory.cpp(54,10): warning C4996: 'wcstombs': This function or variable may be unsafe. Consider using wcstombs_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\jack_\source\repos\cse471\proj_3\Synthie\WaveInstrumentFactory.cpp(53,12): warning C4101: 'convertedSize': unreferenced local variable
+  WaveInstrument.cpp
+C:\Users\jack_\source\repos\cse471\proj_3\Synthie\WaveInstrument.cpp(66,10): warning C4996: 'wcstombs': This function or variable may be unsafe. Consider using wcstombs_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\jack_\source\repos\cse471\proj_3\Synthie\WaveInstrument.cpp(65,12): warning C4101: 'convertedSize': unreferenced local variable
+  ToneInstrument.cpp
+  WaveformWnd.cpp
+  WaveformBuffer.cpp
+  Wave.cpp
+  SynthieView.cpp
+  Synthie.cpp
+  Synthesizer.cpp
+  SineWave.cpp
+  ProgressDlg.cpp
+  Progress.cpp
+  OddSines.cpp
+  OddSinesInstrument.cpp
+  OddSinesFactory.cpp
+  Notes.cpp
+  Note.cpp
+  MainFrm.cpp
+  Instrument.cpp
+  Generating Code...
+  Compiling...
+  WaveTable.cpp
+  Reverb.cpp
+  PitchModulator.cpp
+  NoiseGate.cpp
+  InstrumentFactory.cpp
+  Effect.cpp
+  DrumSynthFactory.cpp
+  DrumSynth.cpp
+  Compressor.cpp
+  DirSoundStream.cpp
+  DirSoundSource.cpp
+  DirSound.cpp
+  AudioNode.cpp
+  ASDREnvelope.cpp
+  ASDREFilterEnvelope.cpp
+  AR.cpp
+  Generating Code...
+AR.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/SAFESEH' specification
+  Synthie.vcxproj -> C:\Users\jack_\source\repos\cse471\proj_3\Debug\Synthie.exe
